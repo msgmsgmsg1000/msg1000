@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
@@ -9,6 +9,7 @@
   <meta name="keywords" content="강남더라임" />
   <meta name="author" content="강남더라임" />
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
+  <meta name="googlebot" content="index, follow" />
   <meta name="theme-color" content="#0b0b0b" />
   <link rel="canonical" href="https://msg1000.com/" />
 
@@ -29,28 +30,120 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/style.css?v=20260825-01" />
+  <link rel="stylesheet" href="css/style.css" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://msg1000.com/#website",
+        "url": "https://msg1000.com/",
+        "name": "강남더라임",
+        "alternateName": ["강남 더라임"],
+        "description": "강남더라임",
+        "inLanguage": "ko-KR",
+        "publisher": { "@id": "https://msg1000.com/#organization" }
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://msg1000.com/#organization",
+        "name": "강남더라임",
+        "alternateName": ["강남 더라임"],
+        "url": "https://msg1000.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://msg1000.com/images/%EC%B6%9C%EA%B7%BC%EB%B6%80.jpg"
+        }
+      }
+    ]
+  }
+  </script>
 </head>
-<body class="entrance-page">
-  <div class="entrance-gate" aria-label="강남더라임 입장">
-    <div class="entrance-media" aria-hidden="true">
-      <img src="images/출근부.jpg" alt="" />
-      <div class="entrance-veil"></div>
-      <div class="entrance-blinds">
-        <span></span><span></span><span></span><span></span>
-        <span></span><span></span><span></span><span></span>
-        <span></span><span></span><span></span><span></span>
-      </div>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-logo">
+        <span class="logo-en">강남 더라임</span>
+      </a>
+
+      <button class="menu-toggle" type="button" aria-label="메뉴 열기" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav class="site-nav" aria-label="주요 메뉴">
+        <a href="attendance.html">출근부</a>
+        <a href="reviews.html">후기</a>
+        <a href="profile.html">프로필</a>
+        <a href="notice.html">공지사항</a>
+        <a href="login.html">로그인</a>
+        <a href="signup.html">회원가입</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page">
+    <div class="image-row">
+      <a class="home-card" href="attendance.html">
+        <h2 class="section-title">출근부</h2>
+        <div class="image-slot">
+          <img src="images/출근부.jpg" alt="강남더라임 출근부" width="380" height="254" />
+        </div>
+      </a>
+
+      <a class="home-card" href="profile.html">
+        <h2 class="section-title">프로필</h2>
+        <div class="image-slot">
+          <img src="images/프로필.jpg" alt="강남더라임 프로필" width="380" height="254" />
+        </div>
+      </a>
+
+      <a class="home-card" href="reviews.html">
+        <h2 class="section-title">후기</h2>
+        <div class="image-slot">
+          <img src="images/후기.jpg" alt="강남더라임 후기" width="380" height="254" />
+        </div>
+      </a>
+
+      <a class="home-card" href="notice.html">
+        <h2 class="section-title">공지사항</h2>
+        <div class="image-slot">
+          <img src="images/공지사항.png" alt="강남더라임 공지사항" width="380" height="254" />
+        </div>
+      </a>
     </div>
 
-    <div class="entrance-panel">
-      <p class="entrance-brand">강남더라임</p>
-      <p class="entrance-sub">힐링을 위한 안식처</p>
-      <a
-        class="entrance-cta"
-        href="https://msgmsgmsg1000.github.io/msg1000/"
-      >강남더라임 입장하기</a>
-    </div>
-  </div>
+    <section class="home-attendance-section" aria-labelledby="home-attendance-title">
+      <h2 class="section-title" id="home-attendance-title">금일 출근부</h2>
+      <ul class="board-list home-attendance-list" id="home-attendance-list"></ul>
+      <p class="board-empty" id="home-attendance-empty" hidden>등록된 출근부가 없습니다.</p>
+    </section>
+
+    <section class="contact-section">
+      <h2 class="section-title">연락처</h2>
+      <div class="phone-list" x-apple-data-detectors="false">
+        <div class="phone-image" aria-hidden="true">
+          <img src="images/phone1.png" alt="강남더라임 연락처 이미지" draggable="false" />
+        </div>
+        <div class="phone-image" aria-hidden="true">
+          <img src="images/phone2.png" alt="강남더라임 연락처 이미지" draggable="false" />
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 강남더라임</p>
+  </footer>
+
+  <script src="js/auth-api.js?v=20260811-26"></script>
+  <script src="js/admin-mode.js?v=20260811-26"></script>
+  <script src="js/popup-store.js?v=20260811-26"></script>
+  <script src="js/main.js?v=20260811-26"></script>
+  <script src="js/auth-ui.js?v=20260811-26"></script>
+  <script src="js/home-attendance.js?v=20260811-26"></script>
 </body>
 </html>
