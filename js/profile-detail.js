@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   bodyEl.textContent = profile.body;
 
   const pageUrl = `https://msg1000.com/profile-detail.html?id=${encodeURIComponent(profile.id)}`;
-  const desc = `${profile.title} - 강남더라임 프로필. msg1000.com`.slice(0, 155);
+  const desc = `${profile.title} - 강남더라임`.slice(0, 155);
   document.title = `${profile.title} | 강남더라임`;
   const descEl = document.querySelector('meta[name="description"]');
   if (descEl) descEl.setAttribute("content", desc);
