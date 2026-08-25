@@ -1,5 +1,9 @@
 User-agent: *
 Allow: /
+Allow: /msg1000/
+Allow: /msg1000/sitemap.xml
+Allow: /msg1000/sitemap-index.xml
+Allow: /msg1000/sitemaps/
 Allow: /sitemap.xml
 Allow: /sitemap-index.xml
 Allow: /sitemaps/
@@ -22,5 +26,23 @@ Disallow: /popup.html
 Disallow: /popup-write.html
 Disallow: /public-api/
 
-Sitemap: https://msg1000.com/sitemap.xml
-Sitemap: https://msg1000.com/sitemap-index.xml
+Disallow: /msg1000/reviews.html
+Disallow: /msg1000/review-detail.html
+Disallow: /msg1000/review-write.html
+Disallow: /msg1000/reviews-admin.html
+Disallow: /msg1000/profile.html
+Disallow: /msg1000/profile-detail.html
+Disallow: /msg1000/profile-write.html
+Disallow: /msg1000/login.html
+Disallow: /msg1000/signup.html
+Disallow: /msg1000/banned-words.html
+Disallow: /msg1000/attendance-admin.html
+Disallow: /msg1000/attendance-write.html
+Disallow: /msg1000/notice-write.html
+Disallow: /msg1000/members.html
+Disallow: /msg1000/popup.html
+Disallow: /msg1000/popup-write.html
+Disallow: /msg1000/public-api/
+
+Sitemap: https://msgmsgmsg1000.github.io/msg1000/sitemap.xml
+Sitemap: https://msgmsgmsg1000.github.io/msg1000/sitemap-index.xml
