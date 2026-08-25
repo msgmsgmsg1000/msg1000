@@ -8,7 +8,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-10T11:39:00.000Z",
     "likes": 0,
     "views": 56,
-    "url": "https://msg1000.com/review-detail.html?id=3467"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3467"
   },
   {
     "id": "3466",
@@ -19,7 +19,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-10T04:04:00.000Z",
     "likes": 0,
     "views": 93,
-    "url": "https://msg1000.com/review-detail.html?id=3466"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3466"
   },
   {
     "id": "3465",
@@ -30,7 +30,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-10T03:31:00.000Z",
     "likes": 0,
     "views": 83,
-    "url": "https://msg1000.com/review-detail.html?id=3465"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3465"
   },
   {
     "id": "3464",
@@ -41,7 +41,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-10T01:33:00.000Z",
     "likes": 0,
     "views": 120,
-    "url": "https://msg1000.com/review-detail.html?id=3464"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3464"
   },
   {
     "id": "3461",
@@ -52,7 +52,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-09T08:43:00.000Z",
     "likes": 0,
     "views": 227,
-    "url": "https://msg1000.com/review-detail.html?id=3461"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3461"
   },
   {
     "id": "3460",
@@ -63,7 +63,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-09T00:57:00.000Z",
     "likes": 0,
     "views": 133,
-    "url": "https://msg1000.com/review-detail.html?id=3460"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3460"
   },
   {
     "id": "3459",
@@ -74,7 +74,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-09T00:36:00.000Z",
     "likes": 0,
     "views": 216,
-    "url": "https://msg1000.com/review-detail.html?id=3459"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3459"
   },
   {
     "id": "3456",
@@ -85,7 +85,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-08T08:52:00.000Z",
     "likes": 0,
     "views": 121,
-    "url": "https://msg1000.com/review-detail.html?id=3456"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3456"
   },
   {
     "id": "3455",
@@ -96,7 +96,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-08T02:02:00.000Z",
     "likes": 0,
     "views": 157,
-    "url": "https://msg1000.com/review-detail.html?id=3455"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3455"
   },
   {
     "id": "3454",
@@ -107,7 +107,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-07T04:09:00.000Z",
     "likes": 0,
     "views": 191,
-    "url": "https://msg1000.com/review-detail.html?id=3454"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3454"
   },
   {
     "id": "3451",
@@ -118,7 +118,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-06T13:49:00.000Z",
     "likes": 0,
     "views": 167,
-    "url": "https://msg1000.com/review-detail.html?id=3451"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3451"
   },
   {
     "id": "3450",
@@ -129,7 +129,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-06T12:10:00.000Z",
     "likes": 0,
     "views": 212,
-    "url": "https://msg1000.com/review-detail.html?id=3450"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3450"
   },
   {
     "id": "3449",
@@ -140,7 +140,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-08-05T08:45:00.000Z",
     "likes": 0,
     "views": 235,
-    "url": "https://msg1000.com/review-detail.html?id=3449"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3449"
   },
   {
     "id": "3445",
@@ -151,7 +151,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-31T08:14:00.000Z",
     "likes": 0,
     "views": 379,
-    "url": "https://msg1000.com/review-detail.html?id=3445"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3445"
   },
   {
     "id": "3444",
@@ -162,7 +162,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-31T03:59:00.000Z",
     "likes": 0,
     "views": 311,
-    "url": "https://msg1000.com/review-detail.html?id=3444"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3444"
   },
   {
     "id": "3443",
@@ -173,7 +173,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-31T02:58:00.000Z",
     "likes": 0,
     "views": 240,
-    "url": "https://msg1000.com/review-detail.html?id=3443"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3443"
   },
   {
     "id": "3442",
@@ -184,7 +184,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-30T12:00:00.000Z",
     "likes": 0,
     "views": 560,
-    "url": "https://msg1000.com/review-detail.html?id=3442"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3442"
   },
   {
     "id": "3440",
@@ -195,7 +195,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-30T04:57:00.000Z",
     "likes": 0,
     "views": 282,
-    "url": "https://msg1000.com/review-detail.html?id=3440"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3440"
   },
   {
     "id": "3439",
@@ -206,7 +206,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-30T04:09:00.000Z",
     "likes": 0,
     "views": 493,
-    "url": "https://msg1000.com/review-detail.html?id=3439"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3439"
   },
   {
     "id": "3436",
@@ -217,7 +217,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-29T12:29:00.000Z",
     "likes": 0,
     "views": 193,
-    "url": "https://msg1000.com/review-detail.html?id=3436"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3436"
   },
   {
     "id": "3435",
@@ -228,7 +228,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-29T04:28:00.000Z",
     "likes": 0,
     "views": 378,
-    "url": "https://msg1000.com/review-detail.html?id=3435"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3435"
   },
   {
     "id": "3434",
@@ -239,7 +239,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-28T13:17:00.000Z",
     "likes": 0,
     "views": 316,
-    "url": "https://msg1000.com/review-detail.html?id=3434"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3434"
   },
   {
     "id": "3433",
@@ -250,7 +250,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-28T11:12:00.000Z",
     "likes": 0,
     "views": 371,
-    "url": "https://msg1000.com/review-detail.html?id=3433"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3433"
   },
   {
     "id": "3432",
@@ -261,7 +261,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-28T11:00:00.000Z",
     "likes": 0,
     "views": 177,
-    "url": "https://msg1000.com/review-detail.html?id=3432"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3432"
   },
   {
     "id": "3430",
@@ -272,7 +272,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-28T03:46:00.000Z",
     "likes": 0,
     "views": 192,
-    "url": "https://msg1000.com/review-detail.html?id=3430"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3430"
   },
   {
     "id": "3429",
@@ -283,7 +283,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-27T08:52:00.000Z",
     "likes": 0,
     "views": 230,
-    "url": "https://msg1000.com/review-detail.html?id=3429"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3429"
   },
   {
     "id": "3427",
@@ -294,7 +294,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-27T02:55:00.000Z",
     "likes": 0,
     "views": 205,
-    "url": "https://msg1000.com/review-detail.html?id=3427"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3427"
   },
   {
     "id": "3424",
@@ -305,7 +305,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-26T01:06:00.000Z",
     "likes": 0,
     "views": 297,
-    "url": "https://msg1000.com/review-detail.html?id=3424"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3424"
   },
   {
     "id": "3423",
@@ -316,7 +316,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-25T16:35:00.000Z",
     "likes": 0,
     "views": 183,
-    "url": "https://msg1000.com/review-detail.html?id=3423"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3423"
   },
   {
     "id": "3422",
@@ -327,7 +327,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-25T10:37:00.000Z",
     "likes": 0,
     "views": 313,
-    "url": "https://msg1000.com/review-detail.html?id=3422"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3422"
   },
   {
     "id": "3420",
@@ -338,7 +338,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-25T08:14:00.000Z",
     "likes": 0,
     "views": 245,
-    "url": "https://msg1000.com/review-detail.html?id=3420"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3420"
   },
   {
     "id": "3418",
@@ -349,7 +349,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-24T01:05:00.000Z",
     "likes": 0,
     "views": 244,
-    "url": "https://msg1000.com/review-detail.html?id=3418"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3418"
   },
   {
     "id": "3417",
@@ -360,7 +360,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-23T10:10:00.000Z",
     "likes": 0,
     "views": 432,
-    "url": "https://msg1000.com/review-detail.html?id=3417"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3417"
   },
   {
     "id": "3415",
@@ -371,7 +371,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-23T01:29:00.000Z",
     "likes": 0,
     "views": 348,
-    "url": "https://msg1000.com/review-detail.html?id=3415"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3415"
   },
   {
     "id": "3412",
@@ -382,7 +382,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-21T12:22:00.000Z",
     "likes": 0,
     "views": 390,
-    "url": "https://msg1000.com/review-detail.html?id=3412"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3412"
   },
   {
     "id": "3410",
@@ -393,7 +393,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-21T07:47:00.000Z",
     "likes": 0,
     "views": 202,
-    "url": "https://msg1000.com/review-detail.html?id=3410"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3410"
   },
   {
     "id": "3409",
@@ -404,7 +404,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-20T11:01:00.000Z",
     "likes": 0,
     "views": 237,
-    "url": "https://msg1000.com/review-detail.html?id=3409"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3409"
   },
   {
     "id": "3407",
@@ -415,7 +415,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-20T07:45:00.000Z",
     "likes": 0,
     "views": 273,
-    "url": "https://msg1000.com/review-detail.html?id=3407"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3407"
   },
   {
     "id": "3406",
@@ -426,7 +426,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-20T05:35:00.000Z",
     "likes": 0,
     "views": 303,
-    "url": "https://msg1000.com/review-detail.html?id=3406"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3406"
   },
   {
     "id": "3405",
@@ -437,7 +437,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-20T03:12:00.000Z",
     "likes": 0,
     "views": 176,
-    "url": "https://msg1000.com/review-detail.html?id=3405"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3405"
   },
   {
     "id": "3399",
@@ -448,7 +448,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-17T22:32:00.000Z",
     "likes": 0,
     "views": 334,
-    "url": "https://msg1000.com/review-detail.html?id=3399"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3399"
   },
   {
     "id": "3396",
@@ -459,7 +459,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-17T07:00:00.000Z",
     "likes": 0,
     "views": 250,
-    "url": "https://msg1000.com/review-detail.html?id=3396"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3396"
   },
   {
     "id": "3395",
@@ -470,7 +470,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-16T12:01:00.000Z",
     "likes": 0,
     "views": 304,
-    "url": "https://msg1000.com/review-detail.html?id=3395"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3395"
   },
   {
     "id": "3393",
@@ -481,7 +481,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-15T10:02:00.000Z",
     "likes": 0,
     "views": 247,
-    "url": "https://msg1000.com/review-detail.html?id=3393"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3393"
   },
   {
     "id": "3391",
@@ -492,7 +492,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-15T07:53:00.000Z",
     "likes": 0,
     "views": 242,
-    "url": "https://msg1000.com/review-detail.html?id=3391"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3391"
   },
   {
     "id": "3389",
@@ -503,7 +503,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-14T06:59:00.000Z",
     "likes": 0,
     "views": 506,
-    "url": "https://msg1000.com/review-detail.html?id=3389"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3389"
   },
   {
     "id": "3388",
@@ -514,7 +514,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-13T11:09:00.000Z",
     "likes": 0,
     "views": 434,
-    "url": "https://msg1000.com/review-detail.html?id=3388"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3388"
   },
   {
     "id": "3387",
@@ -525,7 +525,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-12T11:05:00.000Z",
     "likes": 0,
     "views": 415,
-    "url": "https://msg1000.com/review-detail.html?id=3387"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3387"
   },
   {
     "id": "3386",
@@ -536,7 +536,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-12T08:36:00.000Z",
     "likes": 0,
     "views": 287,
-    "url": "https://msg1000.com/review-detail.html?id=3386"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3386"
   },
   {
     "id": "3384",
@@ -547,7 +547,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-10T08:40:00.000Z",
     "likes": 0,
     "views": 520,
-    "url": "https://msg1000.com/review-detail.html?id=3384"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3384"
   },
   {
     "id": "3383",
@@ -558,7 +558,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-10T04:29:00.000Z",
     "likes": 0,
     "views": 300,
-    "url": "https://msg1000.com/review-detail.html?id=3383"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3383"
   },
   {
     "id": "3381",
@@ -569,7 +569,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-09T05:01:00.000Z",
     "likes": 0,
     "views": 309,
-    "url": "https://msg1000.com/review-detail.html?id=3381"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3381"
   },
   {
     "id": "3379",
@@ -580,7 +580,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-09T01:23:00.000Z",
     "likes": 0,
     "views": 309,
-    "url": "https://msg1000.com/review-detail.html?id=3379"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3379"
   },
   {
     "id": "3376",
@@ -591,7 +591,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-08T11:00:00.000Z",
     "likes": 0,
     "views": 444,
-    "url": "https://msg1000.com/review-detail.html?id=3376"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3376"
   },
   {
     "id": "3375",
@@ -602,7 +602,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-08T10:59:00.000Z",
     "likes": 0,
     "views": 384,
-    "url": "https://msg1000.com/review-detail.html?id=3375"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3375"
   },
   {
     "id": "3373",
@@ -613,7 +613,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-07T14:16:00.000Z",
     "likes": 0,
     "views": 422,
-    "url": "https://msg1000.com/review-detail.html?id=3373"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3373"
   },
   {
     "id": "3372",
@@ -624,7 +624,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-07T10:10:00.000Z",
     "likes": 0,
     "views": 514,
-    "url": "https://msg1000.com/review-detail.html?id=3372"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3372"
   },
   {
     "id": "3371",
@@ -635,7 +635,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-07T05:54:00.000Z",
     "likes": 0,
     "views": 435,
-    "url": "https://msg1000.com/review-detail.html?id=3371"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3371"
   },
   {
     "id": "3370",
@@ -646,7 +646,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-07T02:14:00.000Z",
     "likes": 0,
     "views": 217,
-    "url": "https://msg1000.com/review-detail.html?id=3370"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3370"
   },
   {
     "id": "3367",
@@ -657,7 +657,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-06T12:02:00.000Z",
     "likes": 0,
     "views": 432,
-    "url": "https://msg1000.com/review-detail.html?id=3367"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3367"
   },
   {
     "id": "3366",
@@ -668,7 +668,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-06T11:39:00.000Z",
     "likes": 0,
     "views": 323,
-    "url": "https://msg1000.com/review-detail.html?id=3366"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3366"
   },
   {
     "id": "3365",
@@ -679,7 +679,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-06T11:37:00.000Z",
     "likes": 0,
     "views": 436,
-    "url": "https://msg1000.com/review-detail.html?id=3365"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3365"
   },
   {
     "id": "3364",
@@ -690,7 +690,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-06T07:22:00.000Z",
     "likes": 0,
     "views": 325,
-    "url": "https://msg1000.com/review-detail.html?id=3364"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3364"
   },
   {
     "id": "3358",
@@ -701,7 +701,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-04T08:49:00.000Z",
     "likes": 0,
     "views": 445,
-    "url": "https://msg1000.com/review-detail.html?id=3358"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3358"
   },
   {
     "id": "3356",
@@ -712,7 +712,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-04T04:38:00.000Z",
     "likes": 0,
     "views": 264,
-    "url": "https://msg1000.com/review-detail.html?id=3356"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3356"
   },
   {
     "id": "3353",
@@ -723,7 +723,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-03T09:10:00.000Z",
     "likes": 0,
     "views": 259,
-    "url": "https://msg1000.com/review-detail.html?id=3353"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3353"
   },
   {
     "id": "3352",
@@ -734,7 +734,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-03T06:21:00.000Z",
     "likes": 0,
     "views": 341,
-    "url": "https://msg1000.com/review-detail.html?id=3352"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3352"
   },
   {
     "id": "3348",
@@ -745,7 +745,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-07-02T08:42:00.000Z",
     "likes": 0,
     "views": 306,
-    "url": "https://msg1000.com/review-detail.html?id=3348"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3348"
   },
   {
     "id": "3342",
@@ -756,7 +756,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-30T12:19:00.000Z",
     "likes": 0,
     "views": 424,
-    "url": "https://msg1000.com/review-detail.html?id=3342"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3342"
   },
   {
     "id": "3340",
@@ -767,7 +767,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-29T23:31:00.000Z",
     "likes": 0,
     "views": 353,
-    "url": "https://msg1000.com/review-detail.html?id=3340"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3340"
   },
   {
     "id": "3339",
@@ -778,7 +778,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-29T10:44:00.000Z",
     "likes": 0,
     "views": 688,
-    "url": "https://msg1000.com/review-detail.html?id=3339"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3339"
   },
   {
     "id": "3338",
@@ -789,7 +789,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-29T03:49:00.000Z",
     "likes": 0,
     "views": 737,
-    "url": "https://msg1000.com/review-detail.html?id=3338"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3338"
   },
   {
     "id": "3337",
@@ -800,7 +800,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-28T09:51:00.000Z",
     "likes": 0,
     "views": 561,
-    "url": "https://msg1000.com/review-detail.html?id=3337"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3337"
   },
   {
     "id": "3335",
@@ -811,7 +811,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-28T06:13:00.000Z",
     "likes": 0,
     "views": 299,
-    "url": "https://msg1000.com/review-detail.html?id=3335"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3335"
   },
   {
     "id": "3331",
@@ -822,7 +822,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-26T01:32:00.000Z",
     "likes": 0,
     "views": 318,
-    "url": "https://msg1000.com/review-detail.html?id=3331"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3331"
   },
   {
     "id": "3326",
@@ -833,7 +833,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-24T01:23:00.000Z",
     "likes": 0,
     "views": 416,
-    "url": "https://msg1000.com/review-detail.html?id=3326"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3326"
   },
   {
     "id": "3325",
@@ -844,7 +844,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-23T11:54:00.000Z",
     "likes": 0,
     "views": 398,
-    "url": "https://msg1000.com/review-detail.html?id=3325"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3325"
   },
   {
     "id": "3324",
@@ -855,7 +855,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-22T12:59:00.000Z",
     "likes": 0,
     "views": 295,
-    "url": "https://msg1000.com/review-detail.html?id=3324"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3324"
   },
   {
     "id": "3322",
@@ -866,7 +866,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-22T07:37:00.000Z",
     "likes": 0,
     "views": 401,
-    "url": "https://msg1000.com/review-detail.html?id=3322"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3322"
   },
   {
     "id": "3319",
@@ -877,7 +877,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-22T03:18:00.000Z",
     "likes": 0,
     "views": 348,
-    "url": "https://msg1000.com/review-detail.html?id=3319"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3319"
   },
   {
     "id": "3316",
@@ -888,7 +888,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-22T00:33:00.000Z",
     "likes": 0,
     "views": 326,
-    "url": "https://msg1000.com/review-detail.html?id=3316"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3316"
   },
   {
     "id": "3315",
@@ -899,7 +899,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-21T08:25:00.000Z",
     "likes": 0,
     "views": 471,
-    "url": "https://msg1000.com/review-detail.html?id=3315"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3315"
   },
   {
     "id": "3311",
@@ -910,7 +910,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-18T12:40:00.000Z",
     "likes": 0,
     "views": 417,
-    "url": "https://msg1000.com/review-detail.html?id=3311"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3311"
   },
   {
     "id": "3310",
@@ -921,7 +921,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-18T05:56:00.000Z",
     "likes": 0,
     "views": 282,
-    "url": "https://msg1000.com/review-detail.html?id=3310"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3310"
   },
   {
     "id": "3308",
@@ -932,7 +932,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-17T06:29:00.000Z",
     "likes": 0,
     "views": 551,
-    "url": "https://msg1000.com/review-detail.html?id=3308"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3308"
   },
   {
     "id": "3293",
@@ -943,7 +943,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-12T04:56:00.000Z",
     "likes": 0,
     "views": 363,
-    "url": "https://msg1000.com/review-detail.html?id=3293"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3293"
   },
   {
     "id": "3292",
@@ -954,7 +954,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-12T04:04:00.000Z",
     "likes": 0,
     "views": 634,
-    "url": "https://msg1000.com/review-detail.html?id=3292"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3292"
   },
   {
     "id": "3291",
@@ -965,7 +965,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-11T06:39:00.000Z",
     "likes": 0,
     "views": 403,
-    "url": "https://msg1000.com/review-detail.html?id=3291"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3291"
   },
   {
     "id": "3289",
@@ -976,7 +976,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-10T12:46:00.000Z",
     "likes": 0,
     "views": 341,
-    "url": "https://msg1000.com/review-detail.html?id=3289"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3289"
   },
   {
     "id": "3288",
@@ -987,7 +987,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-10T11:42:00.000Z",
     "likes": 0,
     "views": 413,
-    "url": "https://msg1000.com/review-detail.html?id=3288"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3288"
   },
   {
     "id": "3286",
@@ -998,7 +998,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-09T11:20:00.000Z",
     "likes": 0,
     "views": 1029,
-    "url": "https://msg1000.com/review-detail.html?id=3286"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3286"
   },
   {
     "id": "3285",
@@ -1009,7 +1009,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-09T10:54:00.000Z",
     "likes": 0,
     "views": 449,
-    "url": "https://msg1000.com/review-detail.html?id=3285"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3285"
   },
   {
     "id": "3283",
@@ -1020,7 +1020,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-08T01:04:00.000Z",
     "likes": 0,
     "views": 679,
-    "url": "https://msg1000.com/review-detail.html?id=3283"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3283"
   },
   {
     "id": "3279",
@@ -1031,7 +1031,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-05T05:34:00.000Z",
     "likes": 0,
     "views": 397,
-    "url": "https://msg1000.com/review-detail.html?id=3279"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3279"
   },
   {
     "id": "3277",
@@ -1042,7 +1042,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-03T16:59:00.000Z",
     "likes": 0,
     "views": 463,
-    "url": "https://msg1000.com/review-detail.html?id=3277"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3277"
   },
   {
     "id": "3276",
@@ -1053,7 +1053,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-03T09:04:00.000Z",
     "likes": 0,
     "views": 386,
-    "url": "https://msg1000.com/review-detail.html?id=3276"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3276"
   },
   {
     "id": "3274",
@@ -1064,7 +1064,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-03T06:24:00.000Z",
     "likes": 0,
     "views": 751,
-    "url": "https://msg1000.com/review-detail.html?id=3274"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3274"
   },
   {
     "id": "3273",
@@ -1075,7 +1075,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-02T13:02:00.000Z",
     "likes": 0,
     "views": 454,
-    "url": "https://msg1000.com/review-detail.html?id=3273"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3273"
   },
   {
     "id": "3272",
@@ -1086,7 +1086,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-02T02:00:00.000Z",
     "likes": 0,
     "views": 413,
-    "url": "https://msg1000.com/review-detail.html?id=3272"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3272"
   },
   {
     "id": "3270",
@@ -1097,7 +1097,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-01T12:03:00.000Z",
     "likes": 0,
     "views": 298,
-    "url": "https://msg1000.com/review-detail.html?id=3270"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3270"
   },
   {
     "id": "3269",
@@ -1108,7 +1108,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-01T02:42:00.000Z",
     "likes": 0,
     "views": 390,
-    "url": "https://msg1000.com/review-detail.html?id=3269"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3269"
   },
   {
     "id": "3268",
@@ -1119,7 +1119,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-06-01T00:30:00.000Z",
     "likes": 0,
     "views": 690,
-    "url": "https://msg1000.com/review-detail.html?id=3268"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3268"
   },
   {
     "id": "3254",
@@ -1130,7 +1130,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-27T03:37:00.000Z",
     "likes": 0,
     "views": 399,
-    "url": "https://msg1000.com/review-detail.html?id=3254"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3254"
   },
   {
     "id": "3252",
@@ -1141,7 +1141,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-26T01:46:00.000Z",
     "likes": 0,
     "views": 655,
-    "url": "https://msg1000.com/review-detail.html?id=3252"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3252"
   },
   {
     "id": "3236",
@@ -1152,7 +1152,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-21T03:01:00.000Z",
     "likes": 0,
     "views": 693,
-    "url": "https://msg1000.com/review-detail.html?id=3236"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3236"
   },
   {
     "id": "3235",
@@ -1163,7 +1163,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-21T01:53:00.000Z",
     "likes": 0,
     "views": 378,
-    "url": "https://msg1000.com/review-detail.html?id=3235"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3235"
   },
   {
     "id": "3233",
@@ -1174,7 +1174,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-20T01:06:00.000Z",
     "likes": 0,
     "views": 500,
-    "url": "https://msg1000.com/review-detail.html?id=3233"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3233"
   },
   {
     "id": "3230",
@@ -1185,7 +1185,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-18T07:38:00.000Z",
     "likes": 0,
     "views": 1004,
-    "url": "https://msg1000.com/review-detail.html?id=3230"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3230"
   },
   {
     "id": "3228",
@@ -1196,7 +1196,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-18T01:57:00.000Z",
     "likes": 0,
     "views": 384,
-    "url": "https://msg1000.com/review-detail.html?id=3228"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3228"
   },
   {
     "id": "3224",
@@ -1207,7 +1207,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-16T07:33:00.000Z",
     "likes": 0,
     "views": 337,
-    "url": "https://msg1000.com/review-detail.html?id=3224"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3224"
   },
   {
     "id": "3221",
@@ -1218,7 +1218,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-15T06:41:00.000Z",
     "likes": 0,
     "views": 500,
-    "url": "https://msg1000.com/review-detail.html?id=3221"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3221"
   },
   {
     "id": "3213",
@@ -1229,7 +1229,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-12T15:36:00.000Z",
     "likes": 0,
     "views": 744,
-    "url": "https://msg1000.com/review-detail.html?id=3213"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3213"
   },
   {
     "id": "3203",
@@ -1240,7 +1240,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-09T06:33:00.000Z",
     "likes": 0,
     "views": 1167,
-    "url": "https://msg1000.com/review-detail.html?id=3203"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3203"
   },
   {
     "id": "3195",
@@ -1251,7 +1251,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-06T22:16:00.000Z",
     "likes": 0,
     "views": 284,
-    "url": "https://msg1000.com/review-detail.html?id=3195"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3195"
   },
   {
     "id": "3183",
@@ -1262,7 +1262,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-02T08:57:00.000Z",
     "likes": 0,
     "views": 542,
-    "url": "https://msg1000.com/review-detail.html?id=3183"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3183"
   },
   {
     "id": "3182",
@@ -1273,7 +1273,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-02T06:49:00.000Z",
     "likes": 0,
     "views": 546,
-    "url": "https://msg1000.com/review-detail.html?id=3182"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3182"
   },
   {
     "id": "3180",
@@ -1284,7 +1284,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-05-01T16:33:00.000Z",
     "likes": 0,
     "views": 648,
-    "url": "https://msg1000.com/review-detail.html?id=3180"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3180"
   },
   {
     "id": "3178",
@@ -1295,7 +1295,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-30T14:26:00.000Z",
     "likes": 0,
     "views": 494,
-    "url": "https://msg1000.com/review-detail.html?id=3178"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3178"
   },
   {
     "id": "3176",
@@ -1306,7 +1306,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-30T03:31:00.000Z",
     "likes": 0,
     "views": 592,
-    "url": "https://msg1000.com/review-detail.html?id=3176"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3176"
   },
   {
     "id": "3171",
@@ -1317,7 +1317,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-28T10:53:00.000Z",
     "likes": 0,
     "views": 1098,
-    "url": "https://msg1000.com/review-detail.html?id=3171"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3171"
   },
   {
     "id": "3163",
@@ -1328,7 +1328,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-27T07:52:00.000Z",
     "likes": 0,
     "views": 425,
-    "url": "https://msg1000.com/review-detail.html?id=3163"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3163"
   },
   {
     "id": "3145",
@@ -1339,7 +1339,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-21T02:08:00.000Z",
     "likes": 0,
     "views": 529,
-    "url": "https://msg1000.com/review-detail.html?id=3145"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3145"
   },
   {
     "id": "3144",
@@ -1350,7 +1350,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-21T01:42:00.000Z",
     "likes": 0,
     "views": 634,
-    "url": "https://msg1000.com/review-detail.html?id=3144"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3144"
   },
   {
     "id": "3142",
@@ -1361,7 +1361,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-20T02:26:00.000Z",
     "likes": 0,
     "views": 590,
-    "url": "https://msg1000.com/review-detail.html?id=3142"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3142"
   },
   {
     "id": "3140",
@@ -1372,7 +1372,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-19T12:29:00.000Z",
     "likes": 0,
     "views": 467,
-    "url": "https://msg1000.com/review-detail.html?id=3140"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3140"
   },
   {
     "id": "3136",
@@ -1383,7 +1383,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-18T03:48:00.000Z",
     "likes": 0,
     "views": 626,
-    "url": "https://msg1000.com/review-detail.html?id=3136"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3136"
   },
   {
     "id": "3135",
@@ -1394,7 +1394,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-18T03:48:00.000Z",
     "likes": 0,
     "views": 617,
-    "url": "https://msg1000.com/review-detail.html?id=3135"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3135"
   },
   {
     "id": "3126",
@@ -1405,7 +1405,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-16T00:22:00.000Z",
     "likes": 0,
     "views": 571,
-    "url": "https://msg1000.com/review-detail.html?id=3126"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3126"
   },
   {
     "id": "3122",
@@ -1416,7 +1416,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-14T11:21:00.000Z",
     "likes": 0,
     "views": 710,
-    "url": "https://msg1000.com/review-detail.html?id=3122"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3122"
   },
   {
     "id": "3121",
@@ -1427,7 +1427,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-14T02:47:00.000Z",
     "likes": 0,
     "views": 1102,
-    "url": "https://msg1000.com/review-detail.html?id=3121"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3121"
   },
   {
     "id": "3113",
@@ -1438,7 +1438,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-10T14:10:00.000Z",
     "likes": 0,
     "views": 298,
-    "url": "https://msg1000.com/review-detail.html?id=3113"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3113"
   },
   {
     "id": "3110",
@@ -1449,7 +1449,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-10T11:41:00.000Z",
     "likes": 0,
     "views": 555,
-    "url": "https://msg1000.com/review-detail.html?id=3110"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3110"
   },
   {
     "id": "3105",
@@ -1460,7 +1460,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-08T23:58:00.000Z",
     "likes": 0,
     "views": 597,
-    "url": "https://msg1000.com/review-detail.html?id=3105"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3105"
   },
   {
     "id": "3103",
@@ -1471,7 +1471,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-08T12:57:00.000Z",
     "likes": 0,
     "views": 540,
-    "url": "https://msg1000.com/review-detail.html?id=3103"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3103"
   },
   {
     "id": "3102",
@@ -1482,7 +1482,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-08T00:55:00.000Z",
     "likes": 0,
     "views": 733,
-    "url": "https://msg1000.com/review-detail.html?id=3102"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3102"
   },
   {
     "id": "3101",
@@ -1493,7 +1493,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-07T12:14:00.000Z",
     "likes": 0,
     "views": 567,
-    "url": "https://msg1000.com/review-detail.html?id=3101"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3101"
   },
   {
     "id": "3098",
@@ -1504,7 +1504,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-06T11:37:00.000Z",
     "likes": 0,
     "views": 565,
-    "url": "https://msg1000.com/review-detail.html?id=3098"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3098"
   },
   {
     "id": "3094",
@@ -1515,7 +1515,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-04-05T09:19:00.000Z",
     "likes": 0,
     "views": 573,
-    "url": "https://msg1000.com/review-detail.html?id=3094"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3094"
   },
   {
     "id": "3067",
@@ -1526,7 +1526,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-27T04:49:00.000Z",
     "likes": 0,
     "views": 623,
-    "url": "https://msg1000.com/review-detail.html?id=3067"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3067"
   },
   {
     "id": "3062",
@@ -1537,7 +1537,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-26T08:18:00.000Z",
     "likes": 0,
     "views": 512,
-    "url": "https://msg1000.com/review-detail.html?id=3062"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3062"
   },
   {
     "id": "3055",
@@ -1548,7 +1548,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-24T22:22:00.000Z",
     "likes": 0,
     "views": 554,
-    "url": "https://msg1000.com/review-detail.html?id=3055"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3055"
   },
   {
     "id": "3054",
@@ -1559,7 +1559,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-24T07:08:00.000Z",
     "likes": 0,
     "views": 541,
-    "url": "https://msg1000.com/review-detail.html?id=3054"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3054"
   },
   {
     "id": "3049",
@@ -1570,7 +1570,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-22T01:36:00.000Z",
     "likes": 0,
     "views": 602,
-    "url": "https://msg1000.com/review-detail.html?id=3049"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3049"
   },
   {
     "id": "3047",
@@ -1581,7 +1581,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-21T09:30:00.000Z",
     "likes": 0,
     "views": 770,
-    "url": "https://msg1000.com/review-detail.html?id=3047"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3047"
   },
   {
     "id": "3045",
@@ -1592,7 +1592,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-21T00:56:00.000Z",
     "likes": 0,
     "views": 541,
-    "url": "https://msg1000.com/review-detail.html?id=3045"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3045"
   },
   {
     "id": "3039",
@@ -1603,7 +1603,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-18T09:30:00.000Z",
     "likes": 0,
     "views": 573,
-    "url": "https://msg1000.com/review-detail.html?id=3039"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3039"
   },
   {
     "id": "3037",
@@ -1614,7 +1614,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-17T12:48:00.000Z",
     "likes": 0,
     "views": 473,
-    "url": "https://msg1000.com/review-detail.html?id=3037"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3037"
   },
   {
     "id": "3036",
@@ -1625,7 +1625,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-17T11:30:00.000Z",
     "likes": 0,
     "views": 742,
-    "url": "https://msg1000.com/review-detail.html?id=3036"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3036"
   },
   {
     "id": "3032",
@@ -1636,7 +1636,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-13T11:51:00.000Z",
     "likes": 0,
     "views": 872,
-    "url": "https://msg1000.com/review-detail.html?id=3032"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3032"
   },
   {
     "id": "3030",
@@ -1647,7 +1647,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-13T07:15:00.000Z",
     "likes": 0,
     "views": 589,
-    "url": "https://msg1000.com/review-detail.html?id=3030"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3030"
   },
   {
     "id": "3028",
@@ -1658,7 +1658,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-12T08:10:00.000Z",
     "likes": 0,
     "views": 579,
-    "url": "https://msg1000.com/review-detail.html?id=3028"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3028"
   },
   {
     "id": "3024",
@@ -1669,7 +1669,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-11T10:17:00.000Z",
     "likes": 0,
     "views": 756,
-    "url": "https://msg1000.com/review-detail.html?id=3024"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3024"
   },
   {
     "id": "3021",
@@ -1680,7 +1680,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-10T05:17:00.000Z",
     "likes": 0,
     "views": 491,
-    "url": "https://msg1000.com/review-detail.html?id=3021"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3021"
   },
   {
     "id": "3014",
@@ -1691,7 +1691,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-08T06:30:00.000Z",
     "likes": 0,
     "views": 844,
-    "url": "https://msg1000.com/review-detail.html?id=3014"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3014"
   },
   {
     "id": "3012",
@@ -1702,7 +1702,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-07T05:38:00.000Z",
     "likes": 0,
     "views": 576,
-    "url": "https://msg1000.com/review-detail.html?id=3012"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=3012"
   },
   {
     "id": "2999",
@@ -1713,7 +1713,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-06T01:20:00.000Z",
     "likes": 0,
     "views": 460,
-    "url": "https://msg1000.com/review-detail.html?id=2999"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2999"
   },
   {
     "id": "2995",
@@ -1724,7 +1724,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-05T06:54:00.000Z",
     "likes": 0,
     "views": 413,
-    "url": "https://msg1000.com/review-detail.html?id=2995"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2995"
   },
   {
     "id": "2994",
@@ -1735,7 +1735,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-05T06:29:00.000Z",
     "likes": 0,
     "views": 669,
-    "url": "https://msg1000.com/review-detail.html?id=2994"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2994"
   },
   {
     "id": "2991",
@@ -1746,7 +1746,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-03T10:27:00.000Z",
     "likes": 0,
     "views": 480,
-    "url": "https://msg1000.com/review-detail.html?id=2991"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2991"
   },
   {
     "id": "2988",
@@ -1757,7 +1757,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-02T09:52:00.000Z",
     "likes": 0,
     "views": 569,
-    "url": "https://msg1000.com/review-detail.html?id=2988"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2988"
   },
   {
     "id": "2987",
@@ -1768,7 +1768,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-02T07:16:00.000Z",
     "likes": 0,
     "views": 1254,
-    "url": "https://msg1000.com/review-detail.html?id=2987"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2987"
   },
   {
     "id": "2985",
@@ -1779,7 +1779,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-01T13:59:00.000Z",
     "likes": 0,
     "views": 437,
-    "url": "https://msg1000.com/review-detail.html?id=2985"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2985"
   },
   {
     "id": "2984",
@@ -1790,7 +1790,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-03-01T09:40:00.000Z",
     "likes": 0,
     "views": 337,
-    "url": "https://msg1000.com/review-detail.html?id=2984"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2984"
   },
   {
     "id": "2980",
@@ -1801,7 +1801,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-28T07:58:00.000Z",
     "likes": 0,
     "views": 764,
-    "url": "https://msg1000.com/review-detail.html?id=2980"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2980"
   },
   {
     "id": "2975",
@@ -1812,7 +1812,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-26T09:27:00.000Z",
     "likes": 0,
     "views": 491,
-    "url": "https://msg1000.com/review-detail.html?id=2975"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2975"
   },
   {
     "id": "2971",
@@ -1823,7 +1823,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-25T06:11:00.000Z",
     "likes": 0,
     "views": 733,
-    "url": "https://msg1000.com/review-detail.html?id=2971"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2971"
   },
   {
     "id": "2968",
@@ -1834,7 +1834,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-23T05:01:00.000Z",
     "likes": 0,
     "views": 1030,
-    "url": "https://msg1000.com/review-detail.html?id=2968"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2968"
   },
   {
     "id": "2965",
@@ -1845,7 +1845,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-21T09:23:00.000Z",
     "likes": 0,
     "views": 760,
-    "url": "https://msg1000.com/review-detail.html?id=2965"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2965"
   },
   {
     "id": "2960",
@@ -1856,7 +1856,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-19T06:17:00.000Z",
     "likes": 0,
     "views": 553,
-    "url": "https://msg1000.com/review-detail.html?id=2960"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2960"
   },
   {
     "id": "2952",
@@ -1867,7 +1867,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-16T01:13:00.000Z",
     "likes": 0,
     "views": 1191,
-    "url": "https://msg1000.com/review-detail.html?id=2952"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2952"
   },
   {
     "id": "2947",
@@ -1878,7 +1878,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-14T08:56:00.000Z",
     "likes": 0,
     "views": 423,
-    "url": "https://msg1000.com/review-detail.html?id=2947"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2947"
   },
   {
     "id": "2942",
@@ -1889,7 +1889,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-13T11:51:00.000Z",
     "likes": 0,
     "views": 708,
-    "url": "https://msg1000.com/review-detail.html?id=2942"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2942"
   },
   {
     "id": "2938",
@@ -1900,7 +1900,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-12T10:59:00.000Z",
     "likes": 0,
     "views": 533,
-    "url": "https://msg1000.com/review-detail.html?id=2938"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2938"
   },
   {
     "id": "2935",
@@ -1911,7 +1911,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-11T06:29:00.000Z",
     "likes": 0,
     "views": 784,
-    "url": "https://msg1000.com/review-detail.html?id=2935"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2935"
   },
   {
     "id": "2934",
@@ -1922,7 +1922,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-11T02:40:00.000Z",
     "likes": 0,
     "views": 1038,
-    "url": "https://msg1000.com/review-detail.html?id=2934"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2934"
   },
   {
     "id": "2933",
@@ -1933,7 +1933,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-10T11:35:00.000Z",
     "likes": 0,
     "views": 706,
-    "url": "https://msg1000.com/review-detail.html?id=2933"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2933"
   },
   {
     "id": "2929",
@@ -1944,7 +1944,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-10T03:29:00.000Z",
     "likes": 0,
     "views": 353,
-    "url": "https://msg1000.com/review-detail.html?id=2929"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2929"
   },
   {
     "id": "2922",
@@ -1955,7 +1955,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-07T11:39:00.000Z",
     "likes": 0,
     "views": 800,
-    "url": "https://msg1000.com/review-detail.html?id=2922"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2922"
   },
   {
     "id": "2921",
@@ -1966,7 +1966,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-07T09:59:00.000Z",
     "likes": 0,
     "views": 1149,
-    "url": "https://msg1000.com/review-detail.html?id=2921"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2921"
   },
   {
     "id": "2919",
@@ -1977,7 +1977,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-06T08:54:00.000Z",
     "likes": 0,
     "views": 689,
-    "url": "https://msg1000.com/review-detail.html?id=2919"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2919"
   },
   {
     "id": "2917",
@@ -1988,7 +1988,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-05T13:28:00.000Z",
     "likes": 0,
     "views": 1414,
-    "url": "https://msg1000.com/review-detail.html?id=2917"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2917"
   },
   {
     "id": "2908",
@@ -1999,7 +1999,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-02-04T11:18:00.000Z",
     "likes": 0,
     "views": 807,
-    "url": "https://msg1000.com/review-detail.html?id=2908"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2908"
   },
   {
     "id": "2898",
@@ -2010,7 +2010,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-31T12:11:00.000Z",
     "likes": 0,
     "views": 722,
-    "url": "https://msg1000.com/review-detail.html?id=2898"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2898"
   },
   {
     "id": "2897",
@@ -2021,7 +2021,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-31T09:33:00.000Z",
     "likes": 0,
     "views": 691,
-    "url": "https://msg1000.com/review-detail.html?id=2897"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2897"
   },
   {
     "id": "2890",
@@ -2032,7 +2032,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-28T11:18:00.000Z",
     "likes": 0,
     "views": 699,
-    "url": "https://msg1000.com/review-detail.html?id=2890"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2890"
   },
   {
     "id": "2889",
@@ -2043,7 +2043,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-28T11:10:00.000Z",
     "likes": 0,
     "views": 1406,
-    "url": "https://msg1000.com/review-detail.html?id=2889"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2889"
   },
   {
     "id": "2887",
@@ -2054,7 +2054,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-27T14:43:00.000Z",
     "likes": 0,
     "views": 583,
-    "url": "https://msg1000.com/review-detail.html?id=2887"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2887"
   },
   {
     "id": "2885",
@@ -2065,7 +2065,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-26T01:57:00.000Z",
     "likes": 0,
     "views": 406,
-    "url": "https://msg1000.com/review-detail.html?id=2885"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2885"
   },
   {
     "id": "2882",
@@ -2076,7 +2076,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-23T07:02:00.000Z",
     "likes": 0,
     "views": 665,
-    "url": "https://msg1000.com/review-detail.html?id=2882"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2882"
   },
   {
     "id": "2879",
@@ -2087,7 +2087,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-22T06:45:00.000Z",
     "likes": 0,
     "views": 577,
-    "url": "https://msg1000.com/review-detail.html?id=2879"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2879"
   },
   {
     "id": "2874",
@@ -2098,7 +2098,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-21T06:20:00.000Z",
     "likes": 0,
     "views": 684,
-    "url": "https://msg1000.com/review-detail.html?id=2874"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2874"
   },
   {
     "id": "2873",
@@ -2109,7 +2109,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-20T09:17:00.000Z",
     "likes": 0,
     "views": 1171,
-    "url": "https://msg1000.com/review-detail.html?id=2873"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2873"
   },
   {
     "id": "2872",
@@ -2120,7 +2120,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-20T02:43:00.000Z",
     "likes": 0,
     "views": 721,
-    "url": "https://msg1000.com/review-detail.html?id=2872"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2872"
   },
   {
     "id": "2871",
@@ -2131,7 +2131,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-19T05:32:00.000Z",
     "likes": 0,
     "views": 717,
-    "url": "https://msg1000.com/review-detail.html?id=2871"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2871"
   },
   {
     "id": "2869",
@@ -2142,7 +2142,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-18T09:08:00.000Z",
     "likes": 0,
     "views": 605,
-    "url": "https://msg1000.com/review-detail.html?id=2869"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2869"
   },
   {
     "id": "2868",
@@ -2153,7 +2153,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-18T06:21:00.000Z",
     "likes": 0,
     "views": 651,
-    "url": "https://msg1000.com/review-detail.html?id=2868"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2868"
   },
   {
     "id": "2865",
@@ -2164,7 +2164,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-15T06:23:00.000Z",
     "likes": 0,
     "views": 1250,
-    "url": "https://msg1000.com/review-detail.html?id=2865"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2865"
   },
   {
     "id": "2859",
@@ -2175,7 +2175,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-14T09:03:00.000Z",
     "likes": 0,
     "views": 598,
-    "url": "https://msg1000.com/review-detail.html?id=2859"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2859"
   },
   {
     "id": "2853",
@@ -2186,7 +2186,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-13T11:21:00.000Z",
     "likes": 0,
     "views": 1328,
-    "url": "https://msg1000.com/review-detail.html?id=2853"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2853"
   },
   {
     "id": "2851",
@@ -2197,7 +2197,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-13T00:42:00.000Z",
     "likes": 0,
     "views": 704,
-    "url": "https://msg1000.com/review-detail.html?id=2851"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2851"
   },
   {
     "id": "2850",
@@ -2208,7 +2208,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-11T15:55:00.000Z",
     "likes": 0,
     "views": 1436,
-    "url": "https://msg1000.com/review-detail.html?id=2850"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2850"
   },
   {
     "id": "2848",
@@ -2219,7 +2219,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-11T12:00:00.000Z",
     "likes": 0,
     "views": 1163,
-    "url": "https://msg1000.com/review-detail.html?id=2848"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2848"
   },
   {
     "id": "2846",
@@ -2230,7 +2230,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-11T06:33:00.000Z",
     "likes": 0,
     "views": 1149,
-    "url": "https://msg1000.com/review-detail.html?id=2846"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2846"
   },
   {
     "id": "2841",
@@ -2241,7 +2241,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-09T03:39:00.000Z",
     "likes": 0,
     "views": 739,
-    "url": "https://msg1000.com/review-detail.html?id=2841"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2841"
   },
   {
     "id": "2838",
@@ -2252,7 +2252,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-08T06:20:00.000Z",
     "likes": 0,
     "views": 740,
-    "url": "https://msg1000.com/review-detail.html?id=2838"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2838"
   },
   {
     "id": "2835",
@@ -2263,7 +2263,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-06T11:19:00.000Z",
     "likes": 0,
     "views": 870,
-    "url": "https://msg1000.com/review-detail.html?id=2835"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2835"
   },
   {
     "id": "2833",
@@ -2274,7 +2274,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-05T09:47:00.000Z",
     "likes": 0,
     "views": 381,
-    "url": "https://msg1000.com/review-detail.html?id=2833"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2833"
   },
   {
     "id": "2832",
@@ -2285,7 +2285,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-04T03:58:00.000Z",
     "likes": 0,
     "views": 1042,
-    "url": "https://msg1000.com/review-detail.html?id=2832"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2832"
   },
   {
     "id": "2831",
@@ -2296,7 +2296,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-03T07:03:00.000Z",
     "likes": 0,
     "views": 783,
-    "url": "https://msg1000.com/review-detail.html?id=2831"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2831"
   },
   {
     "id": "2828",
@@ -2307,7 +2307,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-02T01:32:00.000Z",
     "likes": 0,
     "views": 563,
-    "url": "https://msg1000.com/review-detail.html?id=2828"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2828"
   },
   {
     "id": "2827",
@@ -2318,7 +2318,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-01T07:12:00.000Z",
     "likes": 0,
     "views": 619,
-    "url": "https://msg1000.com/review-detail.html?id=2827"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2827"
   },
   {
     "id": "2826",
@@ -2329,7 +2329,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2026-01-01T00:43:00.000Z",
     "likes": 0,
     "views": 1123,
-    "url": "https://msg1000.com/review-detail.html?id=2826"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2826"
   },
   {
     "id": "2817",
@@ -2340,7 +2340,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-30T03:00:00.000Z",
     "likes": 0,
     "views": 712,
-    "url": "https://msg1000.com/review-detail.html?id=2817"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2817"
   },
   {
     "id": "2816",
@@ -2351,7 +2351,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-29T13:10:00.000Z",
     "likes": 0,
     "views": 1355,
-    "url": "https://msg1000.com/review-detail.html?id=2816"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2816"
   },
   {
     "id": "2810",
@@ -2362,7 +2362,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-26T12:26:00.000Z",
     "likes": 0,
     "views": 771,
-    "url": "https://msg1000.com/review-detail.html?id=2810"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2810"
   },
   {
     "id": "2808",
@@ -2373,7 +2373,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-24T14:02:00.000Z",
     "likes": 0,
     "views": 1189,
-    "url": "https://msg1000.com/review-detail.html?id=2808"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2808"
   },
   {
     "id": "2800",
@@ -2384,7 +2384,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-21T07:05:00.000Z",
     "likes": 0,
     "views": 796,
-    "url": "https://msg1000.com/review-detail.html?id=2800"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2800"
   },
   {
     "id": "2795",
@@ -2395,7 +2395,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-19T11:19:00.000Z",
     "likes": 0,
     "views": 569,
-    "url": "https://msg1000.com/review-detail.html?id=2795"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2795"
   },
   {
     "id": "2787",
@@ -2406,7 +2406,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-17T22:42:00.000Z",
     "likes": 0,
     "views": 628,
-    "url": "https://msg1000.com/review-detail.html?id=2787"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2787"
   },
   {
     "id": "2782",
@@ -2417,7 +2417,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-16T12:14:00.000Z",
     "likes": 0,
     "views": 977,
-    "url": "https://msg1000.com/review-detail.html?id=2782"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2782"
   },
   {
     "id": "2780",
@@ -2428,7 +2428,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-16T04:54:00.000Z",
     "likes": 0,
     "views": 786,
-    "url": "https://msg1000.com/review-detail.html?id=2780"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2780"
   },
   {
     "id": "2777",
@@ -2439,7 +2439,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-15T03:05:00.000Z",
     "likes": 0,
     "views": 823,
-    "url": "https://msg1000.com/review-detail.html?id=2777"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2777"
   },
   {
     "id": "2773",
@@ -2450,7 +2450,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-13T11:29:00.000Z",
     "likes": 0,
     "views": 1183,
-    "url": "https://msg1000.com/review-detail.html?id=2773"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2773"
   },
   {
     "id": "2768",
@@ -2461,7 +2461,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-12T02:49:00.000Z",
     "likes": 0,
     "views": 745,
-    "url": "https://msg1000.com/review-detail.html?id=2768"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2768"
   },
   {
     "id": "2763",
@@ -2472,7 +2472,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-11T03:54:00.000Z",
     "likes": 0,
     "views": 443,
-    "url": "https://msg1000.com/review-detail.html?id=2763"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2763"
   },
   {
     "id": "2754",
@@ -2483,7 +2483,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-07T10:56:00.000Z",
     "likes": 0,
     "views": 626,
-    "url": "https://msg1000.com/review-detail.html?id=2754"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2754"
   },
   {
     "id": "2744",
@@ -2494,7 +2494,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-04T05:01:00.000Z",
     "likes": 0,
     "views": 821,
-    "url": "https://msg1000.com/review-detail.html?id=2744"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2744"
   },
   {
     "id": "2739",
@@ -2505,7 +2505,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-02T12:32:00.000Z",
     "likes": 0,
     "views": 780,
-    "url": "https://msg1000.com/review-detail.html?id=2739"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2739"
   },
   {
     "id": "2737",
@@ -2516,7 +2516,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-12-01T13:12:00.000Z",
     "likes": 0,
     "views": 803,
-    "url": "https://msg1000.com/review-detail.html?id=2737"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2737"
   },
   {
     "id": "2726",
@@ -2527,7 +2527,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-11-26T02:00:00.000Z",
     "likes": 0,
     "views": 1221,
-    "url": "https://msg1000.com/review-detail.html?id=2726"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2726"
   },
   {
     "id": "2722",
@@ -2538,7 +2538,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-11-25T08:37:00.000Z",
     "likes": 0,
     "views": 869,
-    "url": "https://msg1000.com/review-detail.html?id=2722"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2722"
   },
   {
     "id": "2714",
@@ -2549,7 +2549,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-11-22T07:26:00.000Z",
     "likes": 0,
     "views": 853,
-    "url": "https://msg1000.com/review-detail.html?id=2714"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2714"
   },
   {
     "id": "2705",
@@ -2560,7 +2560,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-11-18T10:25:00.000Z",
     "likes": 0,
     "views": 929,
-    "url": "https://msg1000.com/review-detail.html?id=2705"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2705"
   },
   {
     "id": "2699",
@@ -2571,7 +2571,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-11-16T13:25:00.000Z",
     "likes": 0,
     "views": 813,
-    "url": "https://msg1000.com/review-detail.html?id=2699"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2699"
   },
   {
     "id": "2671",
@@ -2582,7 +2582,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-11-07T05:45:00.000Z",
     "likes": 0,
     "views": 1198,
-    "url": "https://msg1000.com/review-detail.html?id=2671"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2671"
   },
   {
     "id": "2656",
@@ -2593,7 +2593,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-11-01T06:33:00.000Z",
     "likes": 0,
     "views": 852,
-    "url": "https://msg1000.com/review-detail.html?id=2656"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2656"
   },
   {
     "id": "2622",
@@ -2604,7 +2604,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-10-27T04:29:00.000Z",
     "likes": 0,
     "views": 989,
-    "url": "https://msg1000.com/review-detail.html?id=2622"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2622"
   },
   {
     "id": "2618",
@@ -2615,7 +2615,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-10-25T16:25:00.000Z",
     "likes": 0,
     "views": 1276,
-    "url": "https://msg1000.com/review-detail.html?id=2618"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2618"
   },
   {
     "id": "2614",
@@ -2626,7 +2626,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-10-24T10:37:00.000Z",
     "likes": 0,
     "views": 744,
-    "url": "https://msg1000.com/review-detail.html?id=2614"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2614"
   },
   {
     "id": "2602",
@@ -2637,7 +2637,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-10-19T02:17:00.000Z",
     "likes": 0,
     "views": 976,
-    "url": "https://msg1000.com/review-detail.html?id=2602"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2602"
   },
   {
     "id": "2599",
@@ -2648,7 +2648,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-10-18T09:55:00.000Z",
     "likes": 0,
     "views": 587,
-    "url": "https://msg1000.com/review-detail.html?id=2599"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2599"
   },
   {
     "id": "2589",
@@ -2659,7 +2659,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-10-15T14:14:00.000Z",
     "likes": 0,
     "views": 1646,
-    "url": "https://msg1000.com/review-detail.html?id=2589"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2589"
   },
   {
     "id": "2582",
@@ -2670,7 +2670,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-10-13T00:42:00.000Z",
     "likes": 0,
     "views": 694,
-    "url": "https://msg1000.com/review-detail.html?id=2582"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2582"
   },
   {
     "id": "2573",
@@ -2681,7 +2681,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-10-08T08:20:00.000Z",
     "likes": 0,
     "views": 783,
-    "url": "https://msg1000.com/review-detail.html?id=2573"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2573"
   },
   {
     "id": "2566",
@@ -2692,7 +2692,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-10-02T14:36:00.000Z",
     "likes": 0,
     "views": 911,
-    "url": "https://msg1000.com/review-detail.html?id=2566"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2566"
   },
   {
     "id": "2558",
@@ -2703,7 +2703,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-10-01T04:03:00.000Z",
     "likes": 0,
     "views": 1168,
-    "url": "https://msg1000.com/review-detail.html?id=2558"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2558"
   },
   {
     "id": "2553",
@@ -2714,7 +2714,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-28T08:08:00.000Z",
     "likes": 0,
     "views": 516,
-    "url": "https://msg1000.com/review-detail.html?id=2553"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2553"
   },
   {
     "id": "2551",
@@ -2725,7 +2725,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-27T09:23:00.000Z",
     "likes": 0,
     "views": 627,
-    "url": "https://msg1000.com/review-detail.html?id=2551"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2551"
   },
   {
     "id": "2548",
@@ -2736,7 +2736,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-26T10:19:00.000Z",
     "likes": 0,
     "views": 810,
-    "url": "https://msg1000.com/review-detail.html?id=2548"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2548"
   },
   {
     "id": "2541",
@@ -2747,7 +2747,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-23T23:52:00.000Z",
     "likes": 0,
     "views": 609,
-    "url": "https://msg1000.com/review-detail.html?id=2541"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2541"
   },
   {
     "id": "2533",
@@ -2758,7 +2758,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-20T09:25:00.000Z",
     "likes": 0,
     "views": 899,
-    "url": "https://msg1000.com/review-detail.html?id=2533"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2533"
   },
   {
     "id": "2530",
@@ -2769,7 +2769,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-18T13:38:00.000Z",
     "likes": 0,
     "views": 912,
-    "url": "https://msg1000.com/review-detail.html?id=2530"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2530"
   },
   {
     "id": "2529",
@@ -2780,7 +2780,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-18T08:21:00.000Z",
     "likes": 0,
     "views": 474,
-    "url": "https://msg1000.com/review-detail.html?id=2529"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2529"
   },
   {
     "id": "2521",
@@ -2791,7 +2791,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-16T04:46:00.000Z",
     "likes": 0,
     "views": 583,
-    "url": "https://msg1000.com/review-detail.html?id=2521"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2521"
   },
   {
     "id": "2515",
@@ -2802,7 +2802,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-12T10:48:00.000Z",
     "likes": 0,
     "views": 668,
-    "url": "https://msg1000.com/review-detail.html?id=2515"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2515"
   },
   {
     "id": "2506",
@@ -2813,7 +2813,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-10T03:11:00.000Z",
     "likes": 0,
     "views": 646,
-    "url": "https://msg1000.com/review-detail.html?id=2506"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2506"
   },
   {
     "id": "2504",
@@ -2824,7 +2824,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-10T00:55:00.000Z",
     "likes": 0,
     "views": 728,
-    "url": "https://msg1000.com/review-detail.html?id=2504"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2504"
   },
   {
     "id": "2502",
@@ -2835,7 +2835,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-09T08:38:00.000Z",
     "likes": 0,
     "views": 512,
-    "url": "https://msg1000.com/review-detail.html?id=2502"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2502"
   },
   {
     "id": "2498",
@@ -2846,7 +2846,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-08T11:23:00.000Z",
     "likes": 0,
     "views": 585,
-    "url": "https://msg1000.com/review-detail.html?id=2498"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2498"
   },
   {
     "id": "2492",
@@ -2857,7 +2857,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-07T05:02:00.000Z",
     "likes": 0,
     "views": 576,
-    "url": "https://msg1000.com/review-detail.html?id=2492"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2492"
   },
   {
     "id": "2491",
@@ -2868,7 +2868,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-06T15:08:00.000Z",
     "likes": 0,
     "views": 371,
-    "url": "https://msg1000.com/review-detail.html?id=2491"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2491"
   },
   {
     "id": "2490",
@@ -2879,7 +2879,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-06T10:46:00.000Z",
     "likes": 0,
     "views": 748,
-    "url": "https://msg1000.com/review-detail.html?id=2490"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2490"
   },
   {
     "id": "2487",
@@ -2890,7 +2890,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-06T05:08:00.000Z",
     "likes": 0,
     "views": 715,
-    "url": "https://msg1000.com/review-detail.html?id=2487"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2487"
   },
   {
     "id": "2480",
@@ -2901,7 +2901,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-04T09:31:00.000Z",
     "likes": 0,
     "views": 1281,
-    "url": "https://msg1000.com/review-detail.html?id=2480"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2480"
   },
   {
     "id": "2476",
@@ -2912,7 +2912,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-03T01:19:00.000Z",
     "likes": 0,
     "views": 534,
-    "url": "https://msg1000.com/review-detail.html?id=2476"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2476"
   },
   {
     "id": "2474",
@@ -2923,7 +2923,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-02T10:08:00.000Z",
     "likes": 0,
     "views": 745,
-    "url": "https://msg1000.com/review-detail.html?id=2474"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2474"
   },
   {
     "id": "2472",
@@ -2934,7 +2934,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-09-01T09:32:00.000Z",
     "likes": 0,
     "views": 1228,
-    "url": "https://msg1000.com/review-detail.html?id=2472"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2472"
   },
   {
     "id": "2471",
@@ -2945,7 +2945,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-30T08:45:00.000Z",
     "likes": 0,
     "views": 941,
-    "url": "https://msg1000.com/review-detail.html?id=2471"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2471"
   },
   {
     "id": "2464",
@@ -2956,7 +2956,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-28T13:26:00.000Z",
     "likes": 0,
     "views": 640,
-    "url": "https://msg1000.com/review-detail.html?id=2464"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2464"
   },
   {
     "id": "2460",
@@ -2967,7 +2967,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-28T01:40:00.000Z",
     "likes": 0,
     "views": 1020,
-    "url": "https://msg1000.com/review-detail.html?id=2460"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2460"
   },
   {
     "id": "2459",
@@ -2978,7 +2978,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-27T04:36:00.000Z",
     "likes": 0,
     "views": 1002,
-    "url": "https://msg1000.com/review-detail.html?id=2459"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2459"
   },
   {
     "id": "2458",
@@ -2989,7 +2989,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-27T01:43:00.000Z",
     "likes": 0,
     "views": 1044,
-    "url": "https://msg1000.com/review-detail.html?id=2458"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2458"
   },
   {
     "id": "2457",
@@ -3000,7 +3000,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-26T07:37:00.000Z",
     "likes": 0,
     "views": 624,
-    "url": "https://msg1000.com/review-detail.html?id=2457"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2457"
   },
   {
     "id": "2456",
@@ -3011,7 +3011,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-26T04:48:00.000Z",
     "likes": 0,
     "views": 711,
-    "url": "https://msg1000.com/review-detail.html?id=2456"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2456"
   },
   {
     "id": "2453",
@@ -3022,7 +3022,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-24T10:23:00.000Z",
     "likes": 0,
     "views": 432,
-    "url": "https://msg1000.com/review-detail.html?id=2453"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2453"
   },
   {
     "id": "2452",
@@ -3033,7 +3033,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-24T05:59:00.000Z",
     "likes": 0,
     "views": 422,
-    "url": "https://msg1000.com/review-detail.html?id=2452"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2452"
   },
   {
     "id": "2448",
@@ -3044,7 +3044,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-22T01:01:00.000Z",
     "likes": 0,
     "views": 756,
-    "url": "https://msg1000.com/review-detail.html?id=2448"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2448"
   },
   {
     "id": "2445",
@@ -3055,7 +3055,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-21T10:21:00.000Z",
     "likes": 0,
     "views": 874,
-    "url": "https://msg1000.com/review-detail.html?id=2445"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2445"
   },
   {
     "id": "2441",
@@ -3066,7 +3066,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-19T13:05:00.000Z",
     "likes": 0,
     "views": 938,
-    "url": "https://msg1000.com/review-detail.html?id=2441"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2441"
   },
   {
     "id": "2435",
@@ -3077,7 +3077,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-18T08:36:00.000Z",
     "likes": 0,
     "views": 816,
-    "url": "https://msg1000.com/review-detail.html?id=2435"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2435"
   },
   {
     "id": "2432",
@@ -3088,7 +3088,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-15T12:51:00.000Z",
     "likes": 0,
     "views": 859,
-    "url": "https://msg1000.com/review-detail.html?id=2432"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2432"
   },
   {
     "id": "2427",
@@ -3099,7 +3099,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-12T12:55:00.000Z",
     "likes": 0,
     "views": 743,
-    "url": "https://msg1000.com/review-detail.html?id=2427"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2427"
   },
   {
     "id": "2425",
@@ -3110,7 +3110,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-12T05:29:00.000Z",
     "likes": 0,
     "views": 389,
-    "url": "https://msg1000.com/review-detail.html?id=2425"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2425"
   },
   {
     "id": "2422",
@@ -3121,7 +3121,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-11T05:11:00.000Z",
     "likes": 0,
     "views": 1155,
-    "url": "https://msg1000.com/review-detail.html?id=2422"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2422"
   },
   {
     "id": "2419",
@@ -3132,7 +3132,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-09T07:00:00.000Z",
     "likes": 0,
     "views": 843,
-    "url": "https://msg1000.com/review-detail.html?id=2419"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2419"
   },
   {
     "id": "2414",
@@ -3143,7 +3143,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-08T04:50:00.000Z",
     "likes": 0,
     "views": 393,
-    "url": "https://msg1000.com/review-detail.html?id=2414"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2414"
   },
   {
     "id": "2412",
@@ -3154,7 +3154,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-06T04:46:00.000Z",
     "likes": 0,
     "views": 1002,
-    "url": "https://msg1000.com/review-detail.html?id=2412"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2412"
   },
   {
     "id": "2410",
@@ -3165,7 +3165,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-08-05T08:16:00.000Z",
     "likes": 0,
     "views": 960,
-    "url": "https://msg1000.com/review-detail.html?id=2410"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2410"
   },
   {
     "id": "2387",
@@ -3176,7 +3176,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-07-23T13:54:00.000Z",
     "likes": 0,
     "views": 886,
-    "url": "https://msg1000.com/review-detail.html?id=2387"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2387"
   },
   {
     "id": "2378",
@@ -3187,7 +3187,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-07-21T03:50:00.000Z",
     "likes": 0,
     "views": 908,
-    "url": "https://msg1000.com/review-detail.html?id=2378"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2378"
   },
   {
     "id": "2362",
@@ -3198,7 +3198,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-07-15T11:49:00.000Z",
     "likes": 0,
     "views": 843,
-    "url": "https://msg1000.com/review-detail.html?id=2362"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2362"
   },
   {
     "id": "2359",
@@ -3209,7 +3209,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-07-14T04:59:00.000Z",
     "likes": 0,
     "views": 1106,
-    "url": "https://msg1000.com/review-detail.html?id=2359"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2359"
   },
   {
     "id": "2353",
@@ -3220,7 +3220,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-07-12T13:07:00.000Z",
     "likes": 0,
     "views": 501,
-    "url": "https://msg1000.com/review-detail.html?id=2353"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2353"
   },
   {
     "id": "2350",
@@ -3231,7 +3231,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-07-11T10:47:00.000Z",
     "likes": 0,
     "views": 658,
-    "url": "https://msg1000.com/review-detail.html?id=2350"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2350"
   },
   {
     "id": "2349",
@@ -3242,7 +3242,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-07-11T09:57:00.000Z",
     "likes": 0,
     "views": 1234,
-    "url": "https://msg1000.com/review-detail.html?id=2349"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2349"
   },
   {
     "id": "2348",
@@ -3253,7 +3253,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-07-11T07:10:00.000Z",
     "likes": 0,
     "views": 504,
-    "url": "https://msg1000.com/review-detail.html?id=2348"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2348"
   },
   {
     "id": "2346",
@@ -3264,7 +3264,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-07-11T01:12:00.000Z",
     "likes": 0,
     "views": 965,
-    "url": "https://msg1000.com/review-detail.html?id=2346"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2346"
   },
   {
     "id": "2322",
@@ -3275,7 +3275,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-07-04T05:19:00.000Z",
     "likes": 0,
     "views": 944,
-    "url": "https://msg1000.com/review-detail.html?id=2322"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2322"
   },
   {
     "id": "2311",
@@ -3286,7 +3286,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-06-28T14:30:00.000Z",
     "likes": 0,
     "views": 1398,
-    "url": "https://msg1000.com/review-detail.html?id=2311"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2311"
   },
   {
     "id": "2305",
@@ -3297,7 +3297,7 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-06-27T11:39:00.000Z",
     "likes": 0,
     "views": 997,
-    "url": "https://msg1000.com/review-detail.html?id=2305"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2305"
   },
   {
     "id": "2270",
@@ -3308,6 +3308,6 @@ const BANGMUN_REVIEWS_SEED = [
     "createdAt": "2025-06-16T07:36:00.000Z",
     "likes": 0,
     "views": 816,
-    "url": "https://msg1000.com/review-detail.html?id=2270"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=2270"
   }
 ];

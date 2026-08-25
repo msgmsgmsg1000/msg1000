@@ -42,9 +42,9 @@ function writeUrlset(filePath, entries) {
 
 // Reviews/profiles are intentionally excluded from sitemaps (noindex).
 const pages = [
-  ["https://msg1000.com/", today, "daily", "1.0"],
-  ["https://msg1000.com/attendance.html", today, "daily", "0.9"],
-  ["https://msg1000.com/notice.html", today, "weekly", "0.8"],
+  ["https://msgmsgmsg1000.github.io/msg1000/", today, "daily", "1.0"],
+  ["https://msgmsgmsg1000.github.io/msg1000/attendance.html", today, "daily", "0.9"],
+  ["https://msgmsgmsg1000.github.io/msg1000/notice.html", today, "weekly", "0.8"],
 ];
 
 const notices = loadJson("gongji/gongji_full.json");
@@ -54,7 +54,7 @@ const pageEntries = pages.map(([loc, lastmod, cf, pr]) =>
 );
 const noticeEntries = notices.map((item) =>
   urlEntry(
-    item.url || `https://msg1000.com/notice-detail.html?id=${item.uid}`,
+    item.url || `https://msgmsgmsg1000.github.io/msg1000/notice-detail.html?id=${item.uid}`,
     toLastmod(item.details && item.details["작성일"]),
     "monthly",
     "0.5"
@@ -79,11 +79,11 @@ const indexXml = [
   '<?xml version="1.0" encoding="UTF-8"?>',
   '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
   "  <sitemap>",
-  "    <loc>https://msg1000.com/sitemaps/pages.xml</loc>",
+  "    <loc>https://msgmsgmsg1000.github.io/msg1000/sitemaps/pages.xml</loc>",
   `    <lastmod>${today}</lastmod>`,
   "  </sitemap>",
   "  <sitemap>",
-  "    <loc>https://msg1000.com/sitemaps/notices.xml</loc>",
+  "    <loc>https://msgmsgmsg1000.github.io/msg1000/sitemaps/notices.xml</loc>",
   `    <lastmod>${today}</lastmod>`,
   "  </sitemap>",
   "</sitemapindex>",

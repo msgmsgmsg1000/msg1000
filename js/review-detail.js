@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   metaEl.textContent = `${review.author}${datePart}${views}`;
   bodyEl.textContent = review.body;
 
-  const pageUrl = `https://msg1000.com/review-detail.html?id=${encodeURIComponent(review.id)}`;
+  const pageUrl = `https://msgmsgmsg1000.github.io/msg1000/review-detail.html?id=${encodeURIComponent(review.id)}`;
   const bodyPreview = String(review.body || "").replace(/\s+/g, " ").trim().slice(0, 110);
   const desc = `${review.title}. ${bodyPreview} - 강남더라임`.slice(0, 155);
   document.title = `${review.title} | 강남더라임`;

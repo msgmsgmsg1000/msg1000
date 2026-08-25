@@ -8,7 +8,7 @@ const GONGJI_NOTICES_SEED = [
     "createdAt": "2026-05-24T11:45:00.000Z",
     "likes": 0,
     "views": 591,
-    "url": "https://msg1000.com/notice-detail.html?id=3248"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/notice-detail.html?id=3248"
   },
   {
     "id": "2667",
@@ -19,7 +19,7 @@ const GONGJI_NOTICES_SEED = [
     "createdAt": "2025-11-06T07:51:00.000Z",
     "likes": 0,
     "views": 1684,
-    "url": "https://msg1000.com/notice-detail.html?id=2667"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/notice-detail.html?id=2667"
   },
   {
     "id": "953",
@@ -30,7 +30,7 @@ const GONGJI_NOTICES_SEED = [
     "createdAt": "2023-06-05T07:54:00.000Z",
     "likes": 0,
     "views": 2651,
-    "url": "https://msg1000.com/notice-detail.html?id=953"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/notice-detail.html?id=953"
   },
   {
     "id": "704",
@@ -41,6 +41,6 @@ const GONGJI_NOTICES_SEED = [
     "createdAt": "2022-09-17T02:34:00.000Z",
     "likes": 0,
     "views": 3198,
-    "url": "https://msg1000.com/notice-detail.html?id=704"
+    "url": "https://msgmsgmsg1000.github.io/msg1000/notice-detail.html?id=704"
   }
 ];

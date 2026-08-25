@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     `${notice.author} | ${notice.date} | 추천 ${notice.likes || 0}${views}`;
   document.getElementById("detail-body").textContent = notice.body;
 
-  const pageUrl = `https://msg1000.com/notice-detail.html?id=${encodeURIComponent(notice.id)}`;
+  const pageUrl = `https://msgmsgmsg1000.github.io/msg1000/notice-detail.html?id=${encodeURIComponent(notice.id)}`;
   const bodyPreview = String(notice.body || "").replace(/\s+/g, " ").trim().slice(0, 110);
   const desc = `${notice.title}. ${bodyPreview} - 강남더라임 공지`.slice(0, 155);
   document.title = `${notice.title} | 강남더라임`;

@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   metaEl.textContent = `${profile.author}${datePart}${views}`;
   bodyEl.textContent = profile.body;
 
-  const pageUrl = `https://msg1000.com/profile-detail.html?id=${encodeURIComponent(profile.id)}`;
+  const pageUrl = `https://msgmsgmsg1000.github.io/msg1000/profile-detail.html?id=${encodeURIComponent(profile.id)}`;
   const desc = `${profile.title} - 강남더라임`.slice(0, 155);
   document.title = `${profile.title} | 강남더라임`;
   const descEl = document.querySelector('meta[name="description"]');
