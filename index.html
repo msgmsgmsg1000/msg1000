@@ -1,56 +1,61 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="format-detection" content="telephone=no" />
   <title>강남더라임</title>
   <meta name="description" content="강남더라임" />
   <meta name="keywords" content="강남더라임" />
-  <meta name="author" content="강남더라임" />
-  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
-  <meta name="theme-color" content="#0b0b0b" />
-  <link rel="canonical" href="https://msgmsgmsg1000.github.io/msg1000/" />
-
-  <meta property="og:type" content="website" />
-  <meta property="og:locale" content="ko_KR" />
-  <meta property="og:site_name" content="강남더라임" />
-  <meta property="og:title" content="강남더라임" />
-  <meta property="og:description" content="강남더라임" />
-  <meta property="og:url" content="https://msgmsgmsg1000.github.io/msg1000/" />
-  <meta property="og:image" content="https://msgmsgmsg1000.github.io/msg1000/images/%EC%B6%9C%EA%B7%BC%EB%B6%80.jpg" />
-  <meta property="og:image:alt" content="강남더라임" />
-
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="강남더라임" />
-  <meta name="twitter:description" content="강남더라임" />
-  <meta name="twitter:image" content="https://msgmsgmsg1000.github.io/msg1000/images/%EC%B6%9C%EA%B7%BC%EB%B6%80.jpg" />
-
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/style.css?v=20260825-01" />
+  <meta name="robots" content="index, follow" />
+  <style>
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      min-height: 100%;
+      font-family: "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+      background: #050505;
+      color: #fff;
+    }
+    .gate {
+      min-height: 100vh;
+      min-height: 100dvh;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      padding: 24px;
+      background:
+        linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,.8)),
+        repeating-linear-gradient(
+          180deg,
+          rgba(255,255,255,.03) 0 2px,
+          rgba(0,0,0,.55) 2px 48px
+        );
+    }
+    .brand {
+      margin: 0;
+      font-size: clamp(2.2rem, 8vw, 3.8rem);
+      font-weight: 700;
+      letter-spacing: .08em;
+    }
+    .enter {
+      display: inline-block;
+      margin-top: 28px;
+      padding: 14px 28px;
+      border: 1px solid rgba(255,255,255,.55);
+      color: #fff;
+      text-decoration: none;
+      letter-spacing: .06em;
+      background: rgba(0,0,0,.45);
+    }
+    .enter:hover { border-color: #fff; background: rgba(255,255,255,.1); }
+  </style>
 </head>
-<body class="entrance-page">
-  <div class="entrance-gate" aria-label="강남더라임 입장">
-    <div class="entrance-media" aria-hidden="true">
-      <img src="images/출근부.jpg" alt="" />
-      <div class="entrance-veil"></div>
-      <div class="entrance-blinds">
-        <span></span><span></span><span></span><span></span>
-        <span></span><span></span><span></span><span></span>
-        <span></span><span></span><span></span><span></span>
-      </div>
+<body>
+  <main class="gate">
+    <div>
+      <h1 class="brand">강남더라임</h1>
+      <a class="enter" href="https://msgmsgmsg1000.github.io/msg1000/">강남더라임 입장하기</a>
     </div>
-
-    <div class="entrance-panel">
-      <p class="entrance-brand">강남더라임</p>
-      <p class="entrance-sub">힐링을 위한 안식처</p>
-      <a
-        class="entrance-cta"
-        href="https://msgmsgmsg1000.github.io/msg1000/"
-      >강남더라임 입장하기</a>
-    </div>
-  </div>
+  </main>
 </body>
 </html>
